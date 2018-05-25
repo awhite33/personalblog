@@ -1,0 +1,7 @@
+p > a {
+  font-weight: bold;
+  text-decoration: underline;
+}
+p > a:hover {
+  color: #DC3918;
+}
