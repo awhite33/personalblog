@@ -16,7 +16,7 @@
 title: Alex Whitehead
 email: alexander.whitehead@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I like data & innovation. This is a collection of what I'm working on and find
+  I love data & innovation. This is a collection of what I'm working on and find
   interesting. Get in touch if you're keen to find out more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alexwhitehead.me" # the base hostname & protocol for your site, e.g. http://example.com

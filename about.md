@@ -11,5 +11,5 @@ My key skills:
 - Data analysis with R and excel
 - Project management
 
-For details about my background see my online CV <a class="link-inline"
+For more details about my background see my online CV <a class="link-inline"
 href="https://www.visualcv.com/whiteheadalex">here</a>.

@@ -4,7 +4,6 @@
 @charset "utf-8";
 
 // Import partials from `sass_dir` and set theme here
-$prose-font-size: 16px;
 @import
         "theme-{{ site.theme_color | default: "black" }}.scss"
 ;
